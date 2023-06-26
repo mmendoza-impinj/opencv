@@ -1,5 +1,7 @@
 ## OpenCV: Open Source Computer Vision Library
 
+This fork of OpenCV has the ArUco module included with the base modules
+
 ### Resources
 
 * Homepage: <https://opencv.org>
